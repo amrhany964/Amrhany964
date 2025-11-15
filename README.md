@@ -4,8 +4,8 @@
 ## Passionate computer science student with experience in programming, and AI.
 <!-- </p> -->
 <!--![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrhany964&show_icons=true&theme=radical)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany964&layout=compact&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany964&layout=compact&theme=radical)
 ## Programming Languages
 
 [![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
