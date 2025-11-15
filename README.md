@@ -3,7 +3,7 @@
 
 ## Passionate computer science student with experience in programming, and AI.
 <!-- </p> -->
-<!--![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrhany964&show_icons=true&theme=radical)-->
+![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrhany964&show_icons=true&theme=radical)<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrhany964&layout=compact&theme=radical)
 ## Programming Languages
